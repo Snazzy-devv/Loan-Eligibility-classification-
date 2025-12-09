@@ -1,2 +1,3 @@
-# Loan-Eligibility-classification-
-A collection of data analysis projects utilizing Python, and data visualization tools to extract insights from various datasets, driving informed decisions and business outcomes. 
+# Loan Eligibility Classification model built using machine learning.
+Includes data cleaning, feature engineering, model training, evaluation, and a simple prediction interface.
+
